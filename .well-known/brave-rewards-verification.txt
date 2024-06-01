@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: vinitbhaiji.onrender.com
+Token: e3db0d602134516140be98a5235fab93512d3b673ecdb6a207d6fcc281553bda
